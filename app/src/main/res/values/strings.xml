@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="text_view">Hello, Cruel World!</string>
+    <string name="text_view_land">Hello Landscape!</string>
+</resources>
